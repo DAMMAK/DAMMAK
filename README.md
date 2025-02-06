@@ -62,10 +62,6 @@
 <img src="https://i.imgur.com/x1KbuCq.gif" width="500">
 </p>
 
-<!--🐍📈SNAKEGRAPH / 🌐WEBSITE: https://github.com/Platane/snk -->
-<img src="https://github.com/DAMMAK/DAMMAKK/blob/output/github-contribution-grid-snake.svg" width="100%">
-
-
 <hr />
 
 <h3 align="left">Languages and Tools:</h3>
