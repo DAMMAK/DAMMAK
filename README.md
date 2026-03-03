@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **adekoyafelix@gmail.com**
 
-- 💬 Ask me about **Dart, Flutter, Swift, SwiftUI, Javascript, Typescript, NestJS**
+- 💬 Ask me about **Java, Springboot, ASP.NET CORE, Dart, Flutter, Swift, SwiftUI, Javascript, Typescript, NestJS**
 
 - ⚡ Fun fact **I love musical instruments especially in classical music.**
 
